@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... an NLP tool.
+- 🌱 I’m currently learning ... practical side of Machine Learning and Data Visualization.
+- 👯 I’m looking to collaborate on ... any Data Science related work.
+- 💬 Ask me about ... my art.
+- 📫 How to reach me: ... jpabla1@asu.edu; [LinkedIn](https://linkedin.com/in/jiteshpabla); [my website](https://jiteshpabla.github.io)
+- 📝 See my [Resume](https://github.com/jiteshpabla/jiteshpabla.github.io/blob/master/Pabla_Jitesh_resume.pdf) and [Curriculum Vitae](https://github.com/jiteshpabla/jiteshpabla.github.io/blob/master/Pabla_Jitesh_CV.pdf) to get more info.
+- 😄 Pronouns: ... He/Him/They/Them
+- ⚡ Fun fact: ... actually really really sad fact, I can't swim.
+
+![Jitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiteshpabla&show_icons=true&hide_border=true)
