@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him/They/Them
 - ⚡ Fun fact: ... actually really really sad fact, I can't swim.
 
+<!--
 ![Jitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiteshpabla&show_icons=true&hide_border=true)
+-->
