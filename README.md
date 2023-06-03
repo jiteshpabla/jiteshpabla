@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... on Spark and Scala.
-- 🌱 I’m currently learning ... Product management.
+- 🌱 I’m currently learning ... LangChain.
 - 👯 I’m looking to collaborate on ... any Data Science related work.
 - 💬 Ask me about ... my art.
 - 📫 How to reach me: ... jpabla1@asu.edu; [LinkedIn](https://linkedin.com/in/jiteshpabla); [my website](https://jiteshpabla.github.io)
