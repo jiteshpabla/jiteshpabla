@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... on Spark and Scala.
-- 🌱 I’m currently learning ... LangChain.
+- 🔭 I’m currently working on ... on Spark and Python.
+- 🌱 I’m currently learning ... Data Science best practices.
 - 👯 I’m looking to collaborate on ... any Data Science related work.
 - 💬 Ask me about ... my art.
 - 📫 How to reach me: ... jiteshpabla@gmail.com; [LinkedIn](https://linkedin.com/in/jiteshpabla); [my website](https://jiteshpabla.github.io)
